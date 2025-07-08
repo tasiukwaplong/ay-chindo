@@ -1,4 +1,3 @@
-
 const Index = () => {
   return (
     <div className="landing-page">
@@ -22,7 +21,6 @@ const Index = () => {
       <section className="hero" id="home">
         <div className="hero-content">
           <h1>Transforming Lives, Building Hope</h1>
-          <p>Supporting children, widows, people with disabilities, and promoting girl-child education across communities.</p>
           <div className="hero-buttons">
             <button className="btn-primary">Donate Now</button>
             <button className="btn-secondary">Learn More</button>
